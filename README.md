@@ -33,9 +33,3 @@ e também sou fã de vídeo-games.
 
 Aprender e trabalhar com programação, especialmente em coding.
 
-⚡ Frase Motivacional
-<div align="center">
-
-“A tecnologia move o mundo.” – Steve Jobs
-
-</div>
