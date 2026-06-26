@@ -1,6 +1,6 @@
 🚀 Tecnologias & Ferramentas
 🎨 Design & Prototipação
-<p> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </p>
+<p> <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white"/> </p>
 🛠️ Ferramentas & Versionamento
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </p>
 👨‍💻 Sobre Mim
